@@ -12,6 +12,7 @@
 		784EAEEF2125090300879163 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 784EAEED2125090300879163 /* Main.storyboard */; };
 		784EAEF12125091400879163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 784EAEF02125091400879163 /* Assets.xcassets */; };
 		784EAEF42125091400879163 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 784EAEF22125091400879163 /* LaunchScreen.storyboard */; };
+		78CD50E72125CBE500CF3C82 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CD50E62125CBE400CF3C82 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		784EAEF02125091400879163 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		784EAEF32125091400879163 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		784EAEF52125091400879163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78CD50E62125CBE400CF3C82 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				784EAEF02125091400879163 /* Assets.xcassets */,
 				784EAEF22125091400879163 /* LaunchScreen.storyboard */,
 				784EAEF52125091400879163 /* Info.plist */,
+				78CD50E62125CBE400CF3C82 /* LoginViewController.swift */,
 			);
 			path = "Insta Detective";
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78CD50E72125CBE500CF3C82 /* LoginViewController.swift in Sources */,
 				784EAEEC2125090300879163 /* ViewController.swift in Sources */,
 				784EAEEA2125090300879163 /* AppDelegate.swift in Sources */,
 			);

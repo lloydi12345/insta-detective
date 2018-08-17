@@ -9,13 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBAction func start(_ sender: UIButton) {
-        print(1);
-    }
     
     override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+//        super.viewDidLoad()
     }
 
     override func didReceiveMemoryWarning() {
